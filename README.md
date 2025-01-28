@@ -28,5 +28,6 @@ Metodologias ágeis: Scrum, Kanban
 </div>
 
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500">
 <br><br>
