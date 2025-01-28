@@ -27,7 +27,7 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **S
 ---
 
 🏅 **Projetos**  
-- [RootsMed](https://github.com/Vi027/rootsmed-main)  
+- [RootsMed](https://github.com/MariaIsaabell/rootmed)  
 - [Atividade Prática](https://github.com/Vi027/atividade-pratica)
 
 ---
