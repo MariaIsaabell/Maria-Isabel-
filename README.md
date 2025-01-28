@@ -1,25 +1,75 @@
-Olá! Sou Maria Isabel, uma Desenvolvedora Júnior apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
+# **👋🏼 Bem-vindo ao Perfil!**
 
-🚀 Formação
-Curso Técnico em Desenvolvimento de Sistemas – SENAI
-Durante meu curso técnico, desenvolvi uma base sólida em programação, desenvolvimento de sistemas e práticas de mercado. Tive a oportunidade de trabalhar em diversos projetos, o que me ajudou a entender as necessidades reais das empresas e aplicar soluções eficientes.
+Olá! Sou a **Vitória Leite**, uma desenvolvedora Júnior apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
 
-🔍 Experiência Profissional
-Estágio como Desenvolvedor de Sistemas – CPTM
-Atuei como estagiário na CPTM, onde pude aplicar os conhecimentos adquiridos no SENAI e colaborar no desenvolvimento e manutenção de sistemas. Durante o estágio, também aprendi sobre boas práticas de código, versionamento (Git) e metodologias ágeis.
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **SENAI Mariano Ferraz** e iniciei o curso de **Ciência da Computação** na **Faculdade Cruzeiro do Sul**. Trabalho como **Aluna Aprendiz Técnica** em Desenvolvimento de Sistemas na **Companhia Paulista de Trens Metropolitanos (CPTM)**, o que tem sido uma experiência enriquecedora!
 
-📚 Cursos Complementares
-Power BI – SENAI
-Aprofundei-me em ferramentas de análise de dados e visualização, ampliando minha visão sobre como transformar dados em informações úteis para a tomada de decisões empresariais.
-Interface Web com Bootstrap – SENAI
-Aprendi a criar interfaces responsivas e modernas com Bootstrap, proporcionando uma experiência de usuário otimizada para diferentes dispositivos.
+---
 
-💡 Habilidades Técnicas
-Linguagens de programação: [Python, JavaScript, Java, etc.]
-Desenvolvimento web: HTML, CSS, JavaScript, Bootstrap
-Ferramentas: Power BI, Git, GitHub
-Bancos de dados: [MySQL, SQL Server, etc.]
-Metodologias ágeis: Scrum, Kanban
+🚀 **Formação**  
+🔹 **Curso Técnico em Desenvolvimento de Sistemas** – SENAI
+
+🔍 **Experiência Profissional**  
+🔸 **Estágio como Desenvolvedor de Sistemas** – CPTM  
+🔸 **Estágio como Suporte e Manutenção de TI** - Acciona
+
+📚 **Cursos Complementares**  
+🔹 **Power BI** – SENAI  
+🔹 **Interface Web com Bootstrap** – SENAI
+
+💡 **Habilidades Técnicas**  
+🔧 Linguagens de Programação: [Python, JavaScript, Java, etc.]  
+🌐 Desenvolvimento Web: HTML, CSS, JavaScript, Bootstrap  
+🔹 Ferramentas: Power BI, Git, GitHub  
+💾 Bancos de Dados: [MySQL, SQL Server, etc.]  
+📅 Metodologias Ágeis: Scrum, Kanban
+
+---
+
+🏅 **Projetos**  
+- [RootsMed](https://github.com/Vi027/rootsmed-main)  
+- [Atividade Prática](https://github.com/Vi027/atividade-pratica)
+
+---
+
+# **👋🏼 Bem-vindo ao Perfil!**
+
+Olá! Sou a **Maria Isabel**, uma desenvolvedora Júnior apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
+
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **SENAI Mariano Ferraz** e iniciei o curso de **Ciência da Computação** na **Faculdade Cruzeiro do Sul**. Trabalho como **Aluna Aprendiz Técnica** em Desenvolvimento de Sistemas na **Companhia Paulista de Trens Metropolitanos (CPTM)**, o que tem sido uma experiência enriquecedora!
+
+---
+
+🚀 **Formação**  
+🔹 **Curso Técnico em Desenvolvimento de Sistemas** – SENAI
+
+🔍 **Experiência Profissional**  
+🔸 **Estágio como Desenvolvedor de Sistemas** – CPTM  
+🔸 **Estágio como Suporte e Manutenção de TI** - Acciona
+
+📚 **Cursos Complementares**  
+🔹 **Power BI** – SENAI  
+🔹 **Interface Web com Bootstrap** – SENAI
+
+💡 **Habilidades Técnicas**  
+🔧 Linguagens de Programação: [Python, JavaScript, Java, etc.]  
+🌐 Desenvolvimento Web: HTML, CSS, JavaScript, Bootstrap  
+🔹 Ferramentas: Power BI, Git, GitHub  
+💾 Bancos de Dados: [MySQL, SQL Server, etc.]  
+📅 Metodologias Ágeis: Scrum, Kanban
+
+---
+
+🏅 **Projetos**  
+- [RootsMed](https://github.com/Vi027/rootsmed-main)  
+- [Atividade Prática](https://github.com/Vi027/atividade-pratica)
+
+---
+
+📲 **Redes Sociais**   
+- [LinkedIn](https://www.linkedin.com/feed/)
+- 
+
 
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
