@@ -27,7 +27,16 @@ Metodologias ágeis: Scrum, Kanban
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Animated Hello [🔝](#--gifs-for-readme--)
+## Build Your Own Octocat [🔝](#--gifs-for-readme--)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+> https://myoctocat.com/build-your-octocat/
 
+![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
+
+<br>
+
+> Awesome Octocats: https://octodex.github.com/
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
+<br><br>    
