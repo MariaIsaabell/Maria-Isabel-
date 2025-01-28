@@ -27,6 +27,6 @@ Metodologias ágeis: Scrum, Kanban
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- Designer Vs Developer 2.0
-<img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="200">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500">
 <br><br>
