@@ -33,7 +33,6 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **S
 
 📲 **Redes Sociais**   
 - [LinkedIn](https://www.linkedin.com/feed/)
-- 
 
 
 <div>
